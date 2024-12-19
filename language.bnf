@@ -1,0 +1,4 @@
+<Program> ::= <Function>
+<Function> ::= "int" <id> "(" ")" "{" <Statement> "}"
+<Statement> ::= "return" <Exp> ";"
+<Exp> ::= <Int>

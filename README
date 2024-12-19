@@ -1,0 +1,3 @@
+Trying to code a Compiler in Haskell. First it should just compile a C - like language, later I want it to compile my own language.
+I am following this website : https://norasandler.com/2017/11/29/Write-a-Compiler.html
+I am new to Haskell so please don't judge.
